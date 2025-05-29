@@ -38,8 +38,6 @@ Além da programação, também tenho interesse por:
 
 ---
 
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -60,5 +58,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFlavio&
 
 </p>
 
+---
 
-⭐ Se você chegou até aqui, muito obrigado por visitar meu perfil! Não hesite em entrar em contato ou colaborar em algum projeto comigo.
+<p>⭐ Se você chegou até aqui, muito obrigado por visitar meu perfil! Não hesite em entrar em contato ou colaborar em algum projeto comigo.</p>
