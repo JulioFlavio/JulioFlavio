@@ -1,4 +1,4 @@
-# Júlio Oliveira!
+# Júlio Oliveira
 
 🎯 Desenvolvedor Web Front-End | 🚀 Estudante de Análise e Desenvolvimento de Sistemas | 🧠 Apaixonado por aprendizado contínuo
 
@@ -57,3 +57,5 @@ Além da programação, também tenho interesse por:
   />
 
 </p>
+
+---
