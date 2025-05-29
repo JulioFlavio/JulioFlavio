@@ -31,13 +31,6 @@ Além da programação, também tenho interesse por:
 
 ---
 
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagesdeoliveira)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julinho@lagesoliveira.com.br)
-
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -57,5 +50,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFlavio&
 />
 
 </p>
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagesdeoliveira)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julinho@lagesoliveira.com.br)
+
+---
 
 ⭐ Se você chegou até aqui, muito obrigado por visitar meu perfil! Não hesite em entrar em contato ou colaborar em algum projeto comigo.
