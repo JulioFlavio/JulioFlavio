@@ -57,7 +57,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFlavio&
 />
 
 </p>
-
----
-
-<div>⭐ Se você chegou até aqui, muito obrigado por visitar meu perfil! Não hesite em entrar em contato ou colaborar em algum projeto comigo.</div>
