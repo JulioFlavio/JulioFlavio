@@ -38,6 +38,7 @@ Além da programação, também tenho interesse por:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagesdeoliveira)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julinho@lagesoliveira.com.br)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://junior.lagesoliveira.com.br)
 
 ---
 
