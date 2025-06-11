@@ -29,6 +29,8 @@ Além da programação, também tenho interesse por:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?style=for-the-badge&logo=rest-api&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 
 </div>
 
