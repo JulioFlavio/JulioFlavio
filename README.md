@@ -1,6 +1,6 @@
 # Júlio Oliveira
 
-🎯 Desenvolvedor Web Front-End | 🚀 Estudante de Análise e Desenvolvimento de Sistemas | 🧠 Apaixonado por aprendizado contínuo
+🎯 Desenvolvedor Web Full Stack | 🚀 Estudante de Análise e Desenvolvimento de Sistemas | 🧠 Apaixonado por aprendizado contínuo
 
 ---
 
