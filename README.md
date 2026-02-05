@@ -6,10 +6,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor front-end dedicado e curioso, sempre em busca de evolução técnica e pessoal. Tenho facilidade em apresentações, me comunico bem e possuo ótimo relacionamento interpessoal e profissional. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e tenho me aprofundado em **JavaScript**, **CSS**,  **APIs**, e também estou explorando outros tipos de técnicas para ampliar meu domínio em aplicações web.
+Sou um desenvolvedor dedicado e curioso, sempre em busca de evolução técnica e pessoal. Tenho facilidade em apresentações, me comunico bem e possuo ótimo relacionamento interpessoal e profissional. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e também estou explorando outros tipos de técnicas para ampliar meu domínio em aplicações web.
 
 Além da programação, também tenho interesse por:
-- 🏋️‍♂️ Musculação e Esportes
 - 🖥👨‍💻 Hardware e Montagem de computadores
 - 🎮 Jogos Digitais
 
